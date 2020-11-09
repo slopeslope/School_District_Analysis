@@ -1,7 +1,7 @@
 # School_District_Analysis
 In this dataset the District summary was only slight affected.
 
-The average math score was not affected at all and the overall passing  went up by 1% percent in both categories.
+The average math score was not affected at all and the overall passing percentage went up by 1% percent in both categories.
 
 The scores by grade were not affected at all:
 
